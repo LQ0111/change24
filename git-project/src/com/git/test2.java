@@ -6,7 +6,7 @@ public class test2 {
 	
 	public int getId() {
 		
-		return id +100;
+		return id +200;
 	}
 	public void setId(int id) {
 		
